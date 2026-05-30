@@ -1,7 +1,7 @@
 # GRC Program Starter Kit
-**Fictional Company: MedBridge Supply Co.**
+**Company: MedBridge Supply Co.**
 
-A practical governance, risk, and compliance (GRC) portfolio project built around a fictional mid-size healthcare supply chain technology company. MedBridge Supply Co. operates a SaaS eProcurement platform used by hospitals, long-term care facilities, and healthcare networks to manage medical supply purchasing (~300 employees, Milwaukee, WI).
+A practical governance, risk, and compliance (GRC) portfolio project built around a mid-size healthcare supply chain technology company. MedBridge Supply Co. operates a SaaS eProcurement platform used by hospitals, long-term care facilities, and healthcare networks to manage medical supply purchasing (~300 employees, Milwaukee, WI).
 
 This project demonstrates hands-on GRC documentation skills aligned to industry frameworks including **NIST CSF**, **NIST 800-171**, **ISO 27001**, and **SOC 2 Trust Services Criteria**.
 
@@ -19,7 +19,7 @@ This project demonstrates hands-on GRC documentation skills aligned to industry 
 
 ---
 
-## About MedBridge Supply Co. (Fictional Scenario)
+## About MedBridge Supply Co.
 
 **Industry:** Healthcare supply chain technology  
 **Size:** ~300 employees  
