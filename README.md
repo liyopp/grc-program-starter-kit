@@ -56,8 +56,4 @@ Each artifact is designed to stand alone or be used together as part of a unifie
 **Li Yopp** | Milwaukee, WI  
 SANS Cyber Academy Scholar — GRC, Risk Management, and Cybersecurity Focus  
 Microsoft Certified: Azure Fundamentals (AZ-900)  
-[LinkedIn](https://www.linkedin.com/in/) | [GitHub](https://github.com/)
-
----
-
-*This is a portfolio project using a fictional company scenario for educational and professional development purposes.*
+[LinkedIn](https://www.linkedin.com/in/liy0/) | [GitHub](https://github.com/liyopp)
